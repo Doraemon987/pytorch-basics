@@ -24,6 +24,20 @@ This repository documents my journey of learning PyTorch from scratch toward bec
 - Tensor indexing
 - Tensor slicing
 
+## Day 3
+
+- Learned tensor arithmetic
+- Performed element-wise operations
+- Used matrix multiplication
+- Practiced tensor broadcasting
+
+## Day 4
+
+- Learned tensor reshaping
+- Used reshape() and view()
+- Practiced indexing and slicing
+- Understood tensor dimensions and shapes
+
 ## Day 5
 
 - Learned Autograd basics
