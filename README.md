@@ -23,3 +23,9 @@ This repository documents my journey of learning PyTorch from scratch toward bec
 - Tensor reshape
 - Tensor indexing
 - Tensor slicing
+
+## Day 5
+
+- Learned Autograd basics
+- Used requires_grad
+- Calculated gradients with backward()
