@@ -43,3 +43,13 @@ This repository documents my journey of learning PyTorch from scratch toward bec
 - Learned Autograd basics
 - Used requires_grad
 - Calculated gradients with backward()
+
+### Day6
+
+- Built a linear regression model using `nn.Module`
+- Defined linear layers with `nn.Linear`
+- Calculated loss using `nn.MSELoss`
+- Optimized parameters with `torch.optim.SGD`
+- Implemented a complete training loop (forward, backward, step)
+- Performed model inference using `torch.no_grad()
+- Experienced with different learning rates and visualized loss convergence
