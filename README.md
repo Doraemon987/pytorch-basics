@@ -53,3 +53,12 @@ This repository documents my journey of learning PyTorch from scratch toward bec
 - Implemented a complete training loop (forward, backward, step)
 - Performed model inference using `torch.no_grad()
 - Experienced with different learning rates and visualized loss convergence
+
+### Day 7
+
+- Paired feature tensors and label tensors using `TensorDataset`
+- Configured mini-batch creation and dataset shuffling with `DataLoader`
+- Practiced tensor dimension reduction using `.squeeze()` and data conversion with `.tolist()`
+- Trained a linear model using mini-batch gradient descent (MBGD)
+- Implemented epoch-level loss aggregation and verified parameter convergence
+- Performed inference on unobserved input data using `torch.no_grad()`
